@@ -1,4 +1,4 @@
-# Book Bestsellers Analysis 📚
+# Book Bestsellers Analysis 
 
 ## Project Overview
 I’ve always loved reading, so for my first data analysis project, I chose to explore a dataset of book bestsellers. This project demonstrates my ability to clean, explore, and visualize data using Python, pandas, Matplotlib, and Seaborn.
